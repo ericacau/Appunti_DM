@@ -4,8 +4,8 @@ Il lavoro è parziale, in quanto mancante della parte sulla classificazione, ad 
 
 
 
-📊 Data Understanding e Data preparation: Erica Cau
+*Data Understanding e Data preparation: Erica Cau
 
-🖥 Clustering, KNN, Association Rules: Federico Mazzoni "The Madman"
+*Clustering, KNN, Association Rules: Federico Mazzoni "The Madman"
 
 --- Work in progress ---
